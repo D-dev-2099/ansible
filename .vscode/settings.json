@@ -1,3 +1,6 @@
 {
-    "ansible.python.interpreterPath": "c:\\Users\\Hema Chinni\\AppData\\Local\\Programs\\Python\\Python313\\python.exe"
+  "ansible.ansible.path": "C:\\Users\\Hema Chinni\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\ansible.exe",
+  "ansible.python.interpreterPath": "c:\\Users\\Hema Chinni\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+  "ansible.lint.path": "C:\\Users\\Hema Chinni\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\ansible-lint.exe",
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
 }
